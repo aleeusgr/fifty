@@ -65,10 +65,10 @@
     "image": {
       "@type": "ImageObject",
       "contentUrl": "",
-      "sha256": "162dd7d9a28199a5f449d5484f37b800560b2e0ab9e322a7dbe2740fe46a5787"
+      "sha256": "f327503b81636dea0564a6edbf93304f0b47dc84876416a9848c0e6d02b15e62"
     },
-    "motivations": "testing, check 123",
-    "objectives": "Test the govtool for 42",
-    "qualifications": "testing, check 123"
+    "motivations": "groot",
+    "objectives": "I am groot",
+    "qualifications": "groot"
   }
 }
